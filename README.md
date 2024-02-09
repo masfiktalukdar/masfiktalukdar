@@ -7,7 +7,7 @@
 
 </a>
 
-<P>Hi there! I'm Masfik, a driven Full Stack Developer and Graphics Designer. I'm passionate about pushing the boundaries of technology, particularly in the realms of AI and machine learning. My goal is to become a versatile Full Stack Developer with the ability to implement cutting-edge AI solutions to tackle real-world problems.</P>
+<P>Hi there! I'm Masfik Talukdar, a driven Full Stack Developer and Graphics Designer. I'm passionate about pushing the boundaries of technology, particularly in the realms of AI and machine learning. My goal is to become a versatile Full Stack Developer with the ability to implement cutting-edge AI solutions to tackle real-world problems.</P>
 </div>
 
 ## Current Overview
