@@ -7,9 +7,7 @@
 
 </a>
 
-<P>Experienced in HTML, CSS, JavaScript, Photoshop, Illustrator, Bootstrap, and jQuery, with a relentless drive to advance into the realms of Full Stack Development and Artificial Intelligence. My name is Masfik, and I am on a journey to merge my expertise in web development with cutting-edge technologies like React, Node.js, Express, and Mongoose.
-
-With a keen eye on the future, my vision extends beyond conventional development, delving into the realms of Machine Learning and AI. Driven by a fervent passion for AI and ML, I am committed to mastering Python, recognizing its pivotal role in shaping the landscape of modern technology.</P>
+<P>Hi there! I'm Masfik, a driven Full Stack Developer and Graphics Designer. I'm passionate about pushing the boundaries of technology, particularly in the realms of AI and machine learning. My goal is to become a versatile Full Stack Developer with the ability to implement cutting-edge AI solutions to tackle real-world problems.</P>
 </div>
 
 ## Current Overview
