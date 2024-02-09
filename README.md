@@ -39,8 +39,10 @@
 
 ### ⚡Tools
 
-| ![git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) | ![figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg) | ![netlify](https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg) | ![vercel](https://skillicons.dev/icons?i=vercel) | ![vs-code](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg) | ![Photoshop](https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg) | ![Illustrator](https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg) |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40"/> | <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40"/> | <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vs-code" width="40"/> |
+|-|-|-|-|-|
+
+
 
 
 
