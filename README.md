@@ -18,7 +18,7 @@
 
 #### 👯 I’m looking - To collaborate on open-source projects
 
-#### 🌱 I’m currently learning - Core JavaScript and React
+#### 🌱 I’m currently learning - NextJS and Express
 
 #### 👨‍💻 Passionate About Full stack Web Development with AI & ML
 
