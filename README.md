@@ -12,7 +12,7 @@
 
 ## Current Overview
 
-#### 🥅 Goals of 2025 - React, Redux, Express, TypeScript, Mongoose,Node.js, Python, TensorFlow
+#### 🥅 Goals of 2026 - React, Redux, Express, TypeScript, Mongoose,Node.js, Python, TensorFlow
 
 <img align="right" src="https://i.ibb.co/TMSfT1s/32353962-c7ki-coub-220829.jpg" alt="Penguin" width="20%" />
 
